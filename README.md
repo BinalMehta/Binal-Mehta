@@ -7,7 +7,7 @@ This is Binal Mehta! A curiosity-driven [Developer](https://binal-mehta-portfoli
 
 * 🤝I am looking for opportunities in the domain for  Web Development, Machine Learning and Product Management.
 
-* 🗺️ I am currently exploring React, NodeJS and Deep Learning.
+* 🗺️ I am currently exploring React, Redux and Deep Learning.
 
 * 💬 I love writing and discussing about Machine Learning, Front-end web development and writing blog posts about it.
 
