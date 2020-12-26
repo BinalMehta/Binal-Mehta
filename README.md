@@ -1,13 +1,13 @@
 # Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Glad to see you here! This is my Github Profile. I inspire ideas and implement here.
+Glad to see you here! This is my Github Profile. I inspire ideas and code here.
 
-This is Binal Mehta! A curiosity-driven [Developer](https://binal-mehta-portfolio-web.netlify.app/). Passionate about creating new products.
+This is Binal Mehta! A curiosity-driven [Developer](https://binal-mehta-portfolio-web.netlify.app/). Passionate about creating new things.
 
-* 🧑‍🤝‍🧑The things that I love working on: Machine learning, Python, Javascript, HTML5 & CSS3, Community Building, Product Management.
+* 🧑‍🤝‍🧑 Things that I love working on: Javascript, HTML5 & CSS3, Machine learning, Python, Community Building, Product Management.
 
-* 🤝I am looking for opportunities in the domain for Machine Learning, Web Development and Product Management.
+* 🤝I am looking for opportunities in the domain for  Web Development, Machine Learning and Product Management.
 
-* 🗺️ I am currently exploring Deep Learning, React and NodeJS.
+* 🗺️ I am currently exploring React, NodeJS and Deep Learning.
 
 * 💬 I love writing and discussing about Machine Learning, Front-end web development and writing blog posts about it.
 
