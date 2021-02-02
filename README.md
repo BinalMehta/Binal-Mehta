@@ -14,7 +14,7 @@ This is Binal Mehta! A curiosity-driven [Developer](https://binalmehta277.netlif
 * ✍️ You can reach me at: [E-Mail](binalmehta354@gmail.com), [LinkedIn](https://www.linkedin.com/in/binalmehta/), [Twitter](https://twitter.com/MehtaBinal277)
 
 # ✒️ Blog Posts
-Apart from coding I also maintain blogs - You can find my articles on my [portfolio](https://binal-mehta-portfolio-web.netlify.app/) and at [Dev.to](https://dev.to/binalmehta)
+Apart from coding I also maintain blogs - You can find my articles on my [portfolio](https://binalmehta277.netlify.app/) and at [Dev.to](https://dev.to/binalmehta)
 
 
 ![Binal Mehta's Github Stats](https://github-readme-stats.vercel.app/api?username=BinalMehta&show_icons=true&theme=dark)
