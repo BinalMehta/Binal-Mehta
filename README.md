@@ -1,7 +1,7 @@
 # Hii there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Glad to see you here! This is my Github Profile. I inspire ideas and code here.
 
-This is Binal Mehta! A curiosity-driven [Developer](https://binal-mehta-portfolio-web.netlify.app/). Passionate about creating new things.
+This is Binal Mehta! A curiosity-driven [Developer](https://binalmehta277.netlify.app/). Passionate about creating new things.
 
 * 🧑‍🤝‍🧑 Things that I love working on: Javascript, HTML5 & CSS3, Machine learning, Python, Community Building, Product Management.
 
