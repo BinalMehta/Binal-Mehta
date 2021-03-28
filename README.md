@@ -3,7 +3,7 @@ Glad to see you here! This is my Github Profile. I inspire ideas and code here.
 
 This is Binal Mehta! A curiosity-driven [Developer](https://binalmehta277.netlify.app/). Passionate about creating new things.
 
-* 🧑‍🤝‍🧑 Things that I love working on: Javascript, HTML5 & CSS3, Machine learning, Python, Community Building, Product Management.
+* 🧑‍🤝‍🧑 Things that I love working on: Javascript, HTML5 & CSS3, UX Design, Machine learning, Python, and Community Building.
 
 * 🤝I am looking for opportunities in the domain for  Web Development, Machine Learning and Product Management.
 
